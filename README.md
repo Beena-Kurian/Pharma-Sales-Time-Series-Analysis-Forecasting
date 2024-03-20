@@ -8,6 +8,23 @@ Libraries such as pandas, matplotlib, seaborn, and statsmodels are imported for 
 ## Reading the Data
 The dataset consists of monthly sales data for pharmaceutical products collected over six years from January 2014 to October 2019.
 
+Selected group of drugs (57 drugs) is classified to 8 Anatomical Therapeutic Chemical (ATC) Classification System categories:
+
+* M01AB - Anti-inflammatory and antirheumatic products, non-steroids, Acetic acid derivatives and related substances
+
+* M01AE - Anti-inflammatory and antirheumatic products, non-steroids, Propionic acid derivatives
+
+* N02BA - Other analgesics and antipyretics, Salicylic acid and derivatives
+
+* N02BE - Other analgesics and antipyretics, Pyrazolones and Anilides
+
+* N05B - Psycholeptics drugs, Anxiolytic drugs
+
+* N05C - Psycholeptics drugs, Hypnotics and sedatives drugs
+
+* R03 - Drugs for obstructive airway diseases
+
+* R06 - Antihistamines for systemic use
 ## Data Exploration
 Basic exploration of the dataset is performed using statistical summaries and visualization techniques to understand the underlying patterns and distributions.
 
